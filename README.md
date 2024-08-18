@@ -24,7 +24,7 @@ Bootstrap: Framework used for styling the web application.
 Python: Programming language used for both the model and web application.
 
 ## Model Information
-Model Type: Logistic Regression (or specify your model)
+Model Type: SVM(Support Vector Machine)
 Features: Describe the features used by the model.
 
 Data: Provide information about the dataset used for training (if applicable).
